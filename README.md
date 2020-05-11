@@ -35,12 +35,7 @@ Organizational Experience:
 
 Present Company:
 
-    Organization	:  Cognizant
-    Client		:  philps
-    Nature		:  Support
-    Duration		:  January 2017 to till date.
-
-
+    Organization	:  Cog
 
 
 
